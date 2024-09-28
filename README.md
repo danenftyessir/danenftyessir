@@ -10,11 +10,11 @@ Hey there! I'm Danendra Shafi Athallah, but you can call me Danen. 😊
 
 I'm just starting my journey in the vast world of Informatics Engineering at Institut Teknologi Bandung. As a first-year student, I spend a lot of time seeking new challenges and opportunities to learn and grow. Every day is a new adventure in coding for me!
 
-🚀
+
 
 As a newbie, I'm constantly amazed by the latest tech trends (you should see my face light up when I successfully debug a program!). The best part? I'm excited to eventually use all these cool new skills to solve real-world problems, even if right now those problems are mostly "Why won't my code compile?" 😅
 
-💻
+
 
 Learning to code is like learning a new language, and I'm here for every lesson, every syntax error, and every small victory. Here's to the journey of becoming a developer, one line of code at a time!
 
