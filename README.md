@@ -4,6 +4,8 @@
 
 </div>
 
+## 👨‍💻 About Me
+
 My name is Danendra Shafi Athallah. As a first year Informatics Engineering student in Institut Teknologi Bandung, I spend a lot of time seeking new challenges and opportunities to learn and grow. My passion for computer sciences has led me to explore various areas within the field, from web development, software engineering, to data science. I am committed to staying up-to-date with the latest technologies and trends, and am always looking for ways to apply what I learn to real-world problems.
 
 ## 🚀 Languages and Tools I Use
@@ -15,7 +17,6 @@ My name is Danendra Shafi Athallah. As a first year Informatics Engineering stud
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,3 +40,11 @@ My name is Danendra Shafi Athallah. As a first year Informatics Engineering stud
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danenftyessir&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danenftyessir&layout=compact&theme=vision-friendly-dark)
+
+## 📈 Contribution Graph
+
+[![Danen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danenftyessir&theme=github-compact)](https://github.com/danenftyessir/github-readme-activity-graph)
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/danenftyessir/danenftyessir/blob/output/github-contribution-grid-snake.gif)
