@@ -45,6 +45,3 @@ My name is Danendra Shafi Athallah. As a first year Informatics Engineering stud
 
 [![Danen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=danenftyessir&theme=github-compact)](https://github.com/danenftyessir/github-readme-activity-graph)
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/danenftyessir/danenftyessir/blob/output/github-contribution-grid-snake.gif)
