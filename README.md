@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hello 👋, I'm Danen
+## a first year Informatics Engineering student at Institut Teknologi Bandung
 
 </div>
 
