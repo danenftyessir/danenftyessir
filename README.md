@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello 👋, I'm Danen
-### a first year Computer Sciences student at Institut Teknologi Bandung
+### a second year Computer Sciences student at Institut Teknologi Bandung
 
 </div>
 
@@ -9,7 +9,7 @@
 
 Hey there! I'm Danendra Shafi Athallah, but you can call me Danen. 😊
 
-I'm just starting my journey in the vast world of computer science at Bandung institute of technology. As a first-year student, I spend a lot of time seeking new challenges and opportunities to learn and grow. Every day is a new adventure in coding for me!
+I'm just starting my journey in the vast world of computer science at Bandung institute of technology. As a second-year student, I spend a lot of time seeking new challenges and opportunities to learn and grow. Every day is a new adventure in coding for me!
 
 
 
