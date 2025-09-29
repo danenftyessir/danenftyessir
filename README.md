@@ -13,7 +13,7 @@ I'm just starting my journey in the vast world of computer science at Bandung in
 
 
 
-As a newbie, I'm constantly amazed by the latest tech trends (you should see my face light up when I successfully debug a program!). The best part? I'm excited to eventually use all these cool new skills to solve real-world problems, even if right now those problems are mostly "Why won't my code compile?" 😅
+As a newbie, I'm constantly amazed by the latest tech trends. The best part? I'm excited to eventually use all these cool new skills to solve real-world problems, even if right now those problems are mostly "Why won't my code compile?" 😅
 
 
 
