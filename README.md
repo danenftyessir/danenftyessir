@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello 👋, I'm Danen
-### a second year Computer Sciences student at Institut Teknologi Bandung
+### a third year Computer Sciences student at Institut Teknologi Bandung
 
 </div>
 
