@@ -7,17 +7,11 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I'm Danendra Shafi Athallah, but you can call me Danen. 😊
+I'm **Danendra Shafi Athallah**, a Computer Science student at Institut Teknologi Bandung, currently in my final year of undergraduate studies. My interests lie in **software engineering, ai engineering, and data science**, with hands-on experience building full-stack applications and exploring machine learning solutions for real-world problems.
 
-I'm just starting my journey in the vast world of computer science at Bandung institute of technology. As a second-year student, I spend a lot of time seeking new challenges and opportunities to learn and grow. Every day is a new adventure in coding for me!
+Over the past few years, I've worked across the stack from designing responsive front-end interfaces to building robust back-end systems and databases. I enjoy translating complex problems into clean, maintainable code, and I'm always looking to deepen my understanding of software architecture, data-driven systems, and emerging technologies.
 
-
-
-As a newbie, I'm constantly amazed by the latest tech trends. The best part? I'm excited to eventually use all these cool new skills to solve real-world problems, even if right now those problems are mostly "Why won't my code compile?" 😅
-
-
-
-Learning to code is like learning a new language, and I'm here for every lesson, every syntax error, and every small victory. Here's to the journey of becoming a developer, one line of code at a time!
+I'm currently open to **collaboration opportunities**, and eager to contribute to projects that create meaningful impact through technology.
 
 ## 🚀 Languages and Tools I Use
 
